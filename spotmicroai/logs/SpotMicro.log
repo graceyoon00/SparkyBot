@@ -49,3 +49,115 @@
 2021-12-14 20:30:51,157 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
 2021-12-14 20:30:51,158 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
 2021-12-14 20:32:16,298 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 21:49:18,080 - SpotMicro Powering up SPARKY!    - INFO - setup
+2021-12-14 21:49:18,082 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 21:49:50,659 - SpotMicro CALIBRATE SERVOS       - INFO - Calibrate rest position...
+2021-12-14 21:49:50,662 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 21:49:54,046 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:49:54,051 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:49:54,055 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:49:54,058 - SpotMicro Configuration          - INFO - CHANNEL: 8
+2021-12-14 21:49:54,062 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:49:54,066 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:49:54,068 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:50:07,135 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:50:07,138 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:50:07,141 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:50:07,144 - SpotMicro Configuration          - INFO - CHANNEL: 9
+2021-12-14 21:50:07,148 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:50:07,151 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:50:07,154 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:50:23,378 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:50:23,381 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:50:23,384 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:50:23,387 - SpotMicro Configuration          - INFO - CHANNEL: 10
+2021-12-14 21:50:23,390 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:50:23,394 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:50:23,397 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:50:44,021 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:50:44,025 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:50:44,027 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:50:44,030 - SpotMicro Configuration          - INFO - CHANNEL: 12
+2021-12-14 21:50:44,034 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:50:44,038 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:50:44,040 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:51:05,704 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:51:05,707 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:51:05,710 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:51:05,713 - SpotMicro Configuration          - INFO - CHANNEL: 12
+2021-12-14 21:51:05,716 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:51:05,719 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:51:05,721 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:51:14,602 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:51:14,605 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:51:14,608 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:51:14,611 - SpotMicro Configuration          - INFO - CHANNEL: 13
+2021-12-14 21:51:14,615 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:51:14,619 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:51:14,622 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:51:32,909 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:51:32,912 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:51:32,915 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:51:32,918 - SpotMicro Configuration          - INFO - CHANNEL: 13
+2021-12-14 21:51:32,921 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:51:32,924 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:51:32,926 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:51:37,613 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:51:37,617 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:51:37,620 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:51:37,623 - SpotMicro Configuration          - INFO - CHANNEL: 14
+2021-12-14 21:51:37,626 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:51:37,630 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:51:37,633 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:52:17,684 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:52:17,687 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:52:17,690 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:52:17,693 - SpotMicro Configuration          - INFO - CHANNEL: 5
+2021-12-14 21:52:17,697 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:52:17,700 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:52:17,703 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:53:51,410 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:53:51,413 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:53:51,416 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:53:51,419 - SpotMicro Configuration          - INFO - CHANNEL: 5
+2021-12-14 21:53:51,421 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:53:51,424 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:53:51,427 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:54:24,631 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:54:24,634 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:54:24,637 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:54:24,640 - SpotMicro Configuration          - INFO - CHANNEL: 6
+2021-12-14 21:54:24,644 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:54:24,648 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:54:24,651 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:54:31,071 - SpotMicro CALIBRATE SERVOS       - INFO - Calibrate rest position...
+2021-12-14 21:54:31,073 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 21:54:35,466 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:54:35,470 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:54:35,474 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:54:35,477 - SpotMicro Configuration          - INFO - CHANNEL: 6
+2021-12-14 21:54:35,481 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:54:35,485 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:54:35,487 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:54:49,891 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:54:49,894 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:54:49,897 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:54:49,900 - SpotMicro Configuration          - INFO - CHANNEL: 2
+2021-12-14 21:54:49,904 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:54:49,907 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:54:49,910 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:55:10,190 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 21:55:10,193 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 21:55:10,196 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 21:55:10,199 - SpotMicro Configuration          - INFO - CHANNEL: 1
+2021-12-14 21:55:10,203 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 21:55:10,207 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 21:55:10,210 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 21:56:29,142 - SpotMicro Powering up SPARKY!    - INFO - setup
+2021-12-14 21:56:29,144 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 21:58:58,600 - SpotMicro Powering up SPARKY!    - INFO - setup
+2021-12-14 21:58:58,602 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 21:59:44,428 - SpotMicro Powering up SPARKY!    - INFO - setup
+2021-12-14 21:59:44,430 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 22:01:29,786 - SpotMicro Powering up SPARKY!    - INFO - setup
+2021-12-14 22:01:29,788 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller

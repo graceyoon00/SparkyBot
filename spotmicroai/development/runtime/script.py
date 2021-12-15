@@ -56,7 +56,7 @@ servo_limits = [(40,140), (30, 150), (20, 160)] * 4
 servos_pos_help     = [  8,   9, 10,  12, 13,  14,   4,   5,  6,  0,   1,   2]
 servos_pos_help2    = [  0,   1,  2,   3,  4,   5,   6,   7,  8,  9,  10, 11]
 rest_angles         = [ 75, 100,  0, 105, 80, 180, 105, 100, 0, 75, 80, 180]
-stand_angles        = [ 75,  90, 90, 105, 90,  90, 105, 90, 90, 75, 90,  90]
+stand_angles        = [ 75,  90, 90, 105, 80, 80, 105, 90, 90, 75, 90,  90]
 front_shoulders = [4, 0]
 back_shoulders = [8,12]
 
@@ -310,7 +310,8 @@ if __name__=="__main__":
     # print(angles)
     # print()
 
-    stand_straight()
+    #stand_straight()
+    
     #time.sleep(5)
 
 
