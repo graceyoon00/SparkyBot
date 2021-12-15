@@ -1,6 +1,6 @@
 #!/bin/bash
 
-yes | sudo cp -f ~/spotmicroai/utilities/boot/spotmicroai.service /etc/systemd/system/spotmicroai.service
+yes | sudo cp -f ~/SparkyBot/spotmicroai/utilities/boot/spotmicroai.service /etc/systemd/system/spotmicroai.service
 
 echo "Enabling SpotMicroAI to run on boot"
 sudo systemctl enable spotmicroai.service;
