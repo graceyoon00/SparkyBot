@@ -1,4 +1,4 @@
-#!/home/pi/spotmicroai/venv/bin/python3 -u
+#!/home/pi/SparkyBot/spotmicroai/venv/bin/python3 -u
 
 import busio
 from board import SCL, SDA

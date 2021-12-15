@@ -1,7 +1,7 @@
 #!/bin/bash
 
-cd ~/spotmicroai
+cd ~/SparkyBot/spotmicroai
 export PYTHONPATH=.
 
-venv/bin/python3 integration_tests/test_remote/test_remote.py
+venv/bin/python3 ~/SparkyBot/spotmicroai/integration_tests/test_remote/test_remote.py
 

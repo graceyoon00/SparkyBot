@@ -32,3 +32,20 @@
 2021-12-14 20:13:00,206 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
 2021-12-14 20:14:41,391 - SpotMicro Powering up SPARKY!    - INFO - setup
 2021-12-14 20:14:41,393 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 20:30:30,919 - SpotMicro CALIBRATE SERVOS       - INFO - Calibrate rest position...
+2021-12-14 20:30:30,920 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
+2021-12-14 20:30:42,437 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 20:30:42,440 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 20:30:42,442 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 20:30:42,443 - SpotMicro Configuration          - INFO - CHANNEL: 8
+2021-12-14 20:30:42,445 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 20:30:42,447 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 20:30:42,448 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 20:30:51,150 - SpotMicro Configuration          - INFO - PCA9685_ADDRESS: 0x40
+2021-12-14 20:30:51,151 - SpotMicro Configuration          - INFO - PCA9685_REFERENCE_CLOCK_SPEED: 25000000
+2021-12-14 20:30:51,152 - SpotMicro Configuration          - INFO - PCA9685_FREQUENCY: 50
+2021-12-14 20:30:51,153 - SpotMicro Configuration          - INFO - CHANNEL: 10
+2021-12-14 20:30:51,155 - SpotMicro Configuration          - INFO - MIN_PULSE: 500
+2021-12-14 20:30:51,157 - SpotMicro Configuration          - INFO - MAX_PULSE: 2500
+2021-12-14 20:30:51,158 - SpotMicro Configuration          - INFO - REST_ANGLE: 90
+2021-12-14 20:32:16,298 - SpotMicro Configuration          - INFO - Detected configuration for the modules: abort_controller, lcd_screen_controller, remote_controller_controller, motion_controller
